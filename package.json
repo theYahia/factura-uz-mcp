@@ -1,7 +1,7 @@
 {
   "name": "@theyahia/factura-uz-mcp",
-  "version": "1.0.0",
-  "description": "MCP server for Factura.uz electronic invoicing (Uzbekistan)",
+  "version": "1.0.1",
+  "description": "MCP server for Factura.uz — electronic invoicing, fiscal documents (Uzbekistan)",
   "type": "module",
   "main": "dist/index.js",
   "bin": {
@@ -45,7 +45,8 @@
     "uzbekistan-api",
     "e-invoicing",
     "fiscal",
-    "typescript"
+    "typescript",
+    "api"
   ],
   "license": "MIT",
   "repository": {
